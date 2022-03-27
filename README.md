@@ -10,7 +10,7 @@ ___
 
 ___
 
-## 1. What is it?
+## 1. What is this?
 - (A simple coded project ahead of a team project.)
 - This is an example of parsing meals at Shincheon High School.
 - And does not include a separate authentication key.
