@@ -4,9 +4,10 @@ Shincheon High School Lunch Parsing Example
 ___
 
 ## 0. Index
-1. [What is it?](#1-what-is-it?)
+1. [What is this?](#1-what-is-this)
 2. [Environment](#2-environment)
-3. [Author's Blog Link](#3-authors-blog-naver)
+3. [Example Output](#3-example-output)
+4. [Author's Blog Link](#4-authors-blog-naver)
 
 ___
 
@@ -27,7 +28,13 @@ ___
 
 ___
 
-## 3. Author's Blog (Naver)
+## 3. Example Output
+![image](https://user-images.githubusercontent.com/63220297/160276101-3443bbd4-51cb-4a8d-8984-e0b702bc0dd9.png)
+
+___
+
+## 4. Author's Blog (Naver)
 * [**Green Apple**](https://blog.naver.com/baebine) : https://blog.naver.com/baebine
 </br>(Feedback is always welcome!)
 ___
+
